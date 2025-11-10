@@ -1,21 +1,3 @@
-// import React from 'react'
-
-// const PromoSection = () => {
-//     return (
-//         <div>
-//             <h3>Everyday Fresh & <br />
-//                 Clean with Our <br />
-//                 Products</h3>
-//                 <button>Shop Now →</button>
-//         </div>
-//     )
-// }
-
-// export default PromoSection
-
-
-
-
 import React from 'react';
 
 const PromoSection = () => {
@@ -44,7 +26,7 @@ const PromoSection = () => {
                     padding: '20px',
                     textAlign: 'center'
                 }}>
-                    <h3 className='text-left' style={{ marginBottom: '15px' }}>
+                    <h3 className='text-left text-black' style={{ marginBottom: '15px' }}>
                         Everyday Fresh & <br />
                         Clean with Our <br />
                         Products
@@ -87,7 +69,7 @@ const PromoSection = () => {
                     padding: '20px',
                     textAlign: 'center'
                 }}>
-                    <h3 className='text-left' style={{ marginBottom: '15px' }}>
+                    <h3 className='text-left text-black' style={{ marginBottom: '15px' }}>
                         Everyday Fresh & <br />
                         Clean with Our <br />
                         Products
@@ -114,7 +96,7 @@ const PromoSection = () => {
                 boxShadow: '0 2px 8px rgba(0,0,0,0.1)'
             }}>
                 <img
-                    src="https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+                    src="https://i.ibb.co.com/tPNGsBfw/alt-3.png"
                     alt="Fresh Products"
                     style={{ width: '100%', height: '220px', objectFit: 'cover' }}
                 />
@@ -129,7 +111,7 @@ const PromoSection = () => {
                     padding: '20px',
                     textAlign: 'center'
                 }}>
-                    <h3 className='text-left' style={{ marginBottom: '15px' }}>
+                    <h3 className='text-left text-black' style={{ marginBottom: '15px' }}>
                         Everyday Fresh & <br />
                         Clean with Our <br />
                         Products
