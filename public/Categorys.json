@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Cake & Milk",
+    "items": 11,
+    "image": "https://cdn-icons-png.flaticon.com/512/1046/1046784.png",
+    "bgColor": "#fff8e7"
+  },
+  {
+    "id": 2,
+    "name": "Organic Kiwi",
+    "items": 6,
+    "image": "https://i.ibb.co.com/DDYj2D3p/Figure-8.png",
+    "bgColor": "#f3ffe7"
+  },
+  {
+    "id": 3,
+    "name": "Peach",
+    "items": 6,
+    "image": "https://cdn-icons-png.flaticon.com/512/766/766217.png",
+    "bgColor": "#fff3e7"
+  },
+  {
+    "id": 4,
+    "name": "Read Apple",
+    "items": 10,
+    "image": "https://cdn-icons-png.flaticon.com/512/415/415682.png",
+    "bgColor": "#ffecec"
+  },
+  {
+    "id": 5,
+    "name": "Snacks",
+    "items": 11,
+    "image": "https://cdn-icons-png.flaticon.com/512/706/706164.png",
+    "bgColor": "#fff8f3"
+  },
+  {
+    "id": 6,
+    "name": "Vegetables",
+    "items": 6,
+    "image": "https://cdn-icons-png.flaticon.com/512/766/766289.png",
+    "bgColor": "#f6f8ff"
+  },
+  {
+    "id": 7,
+    "name": "Strawberry",
+    "items": 10,
+    "image": "https://cdn-icons-png.flaticon.com/512/766/766220.png",
+    "bgColor": "#fff0f4"
+  },
+  {
+    "id": 8,
+    "name": "Black Plum",
+    "items": 10,
+    "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png",
+    "bgColor": "#effff4"
+  },
+  {
+    "id": 9,
+    "name": "Custard Apple",
+    "items": 10,
+    "image": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+    "bgColor": "#f9fff3"
+  },
+  {
+    "id": 10,
+    "name": "Coffee & Tea",
+    "items": 11,
+    "image": "https://cdn-icons-png.flaticon.com/512/2935/2935411.png",
+    "bgColor": "#fff3ec"
+  }
+]
